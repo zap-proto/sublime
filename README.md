@@ -1,5 +1,8 @@
 # Cap'n Proto Syntax plugin for Sublime Text
 
+> **Docs:** [ZAP for Sublime Text](https://zap-proto.dev/docs/sdks) · part of the [ZAP Protocol](https://zap-proto.io)
+
+
 Support for [Cap'n Proto](http://capnproto.org/) on [Sublime Text](http://www.sublimetext.com/).
 
 ## Installation
